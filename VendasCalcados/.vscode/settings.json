@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "lib",
+        "src"
+    ],
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "java.dependency.packagePresentation": "flat"
+}
